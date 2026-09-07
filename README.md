@@ -10,9 +10,9 @@
 
 ### 🛠 기술 스택
 
-**Frontend** &nbsp;·&nbsp; React, TypeScript, JavaScript<br>
+**Frontend** &nbsp;·&nbsp; React<br>
 **Backend** &nbsp;·&nbsp; Spring Boot, Node.js<br>
-**언어** &nbsp;·&nbsp; JAVA, C++, Python <br>
+**언어** &nbsp;·&nbsp; JAVA, Python, TypeScript, JavaScript, C++  <br>
 **기타** &nbsp;·&nbsp; Git, GitHub, Figma, Notion, Lightgbm
 
 ---
